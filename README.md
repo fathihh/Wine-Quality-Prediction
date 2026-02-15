@@ -1,4 +1,3 @@
-
 🍷 Wine Quality Prediction
 
 This project focuses on predicting the quality of wine based on various physicochemical properties using machine learning regression techniques. It demonstrates the complete supervised learning workflow—from data preprocessing to model evaluation and deployment.
