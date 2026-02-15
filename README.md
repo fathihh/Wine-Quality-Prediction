@@ -13,7 +13,7 @@ Saving the trained model using joblib for future reuse
 🧪 Dataset
 The dataset used is the Wine Quality Dataset from the UCI Machine Learning Repository.
 
-📥 Download winequality-red.csv
+📥 https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
 
 It contains physicochemical properties of red wine samples and their quality scores rated by experts.
 
