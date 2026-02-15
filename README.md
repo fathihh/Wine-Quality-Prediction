@@ -1,4 +1,3 @@
-Here’s a cleaned, professional, and GitHub-ready README version of your project description. I’ve improved clarity, structure, and consistency while keeping it simple and recruiter-friendly.
 
 🍷 Wine Quality Prediction
 
