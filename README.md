@@ -25,8 +25,10 @@ Matplotlib / Seaborn
 Scikit-learn
 Joblib (for model saving/loading)
 Jupyter Notebook
+
 🚀 How to Run the Project
 Clone the repo or download the .ipynb notebook
 Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
+
 The dataset used is the Wine Quality Dataset from the UCI Machine Learning Repository. It contains physicochemical properties of red or white wine samples along with quality scores given by testers.
