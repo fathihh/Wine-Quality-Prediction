@@ -18,6 +18,7 @@ The dataset used is the Wine Quality Dataset from the UCI Machine Learning Repos
 It contains physicochemical properties of red wine samples and their quality scores rated by experts.
 
 📊 Technologies Used
+
 Python
 Pandas
 NumPy
@@ -27,6 +28,7 @@ Joblib (for model saving/loading)
 Jupyter Notebook
 
 🚀 How to Run the Project
+
 Clone the repo or download the .ipynb notebook
 Install required libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
